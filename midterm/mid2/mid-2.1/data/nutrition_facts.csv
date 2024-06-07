@@ -1,0 +1,356 @@
+,Menu,Calories
+0,Brewed CoffeeShort,3
+1,Brewed CoffeeTall,4
+2,Brewed CoffeeGrande,5
+3,Brewed CoffeeVenti,5
+4,Caffè LatteShort Nonfat Milk,70
+5,Caffè Latte2% Milk,100
+6,Caffè LatteSoymilk,70
+7,Caffè LatteTall Nonfat Milk,100
+8,Caffè Latte2% Milk,150
+9,Caffè LatteSoymilk,110
+10,Caffè LatteGrande Nonfat Milk,130
+11,Caffè Latte2% Milk,190
+12,Caffè LatteSoymilk,150
+13,Caffè LatteVenti Nonfat Milk,170
+14,Caffè Latte2% Milk,240
+15,Caffè LatteSoymilk,190
+16,Caffè Mocha (Without Whipped Cream)Short Nonfat Milk,110
+17,Caffè Mocha (Without Whipped Cream)2% Milk,130
+18,Caffè Mocha (Without Whipped Cream)Soymilk,110
+19,Caffè Mocha (Without Whipped Cream)Tall Nonfat Milk,170
+20,Caffè Mocha (Without Whipped Cream)2% Milk,200
+21,Caffè Mocha (Without Whipped Cream)Soymilk,180
+22,Caffè Mocha (Without Whipped Cream)Grande Nonfat Milk,220
+23,Caffè Mocha (Without Whipped Cream)2% Milk,260
+24,Caffè Mocha (Without Whipped Cream)Soymilk,230
+25,Caffè Mocha (Without Whipped Cream)Venti Nonfat Milk,280
+26,Caffè Mocha (Without Whipped Cream)2% Milk,340
+27,Caffè Mocha (Without Whipped Cream)Soymilk,290
+28,Vanilla Latte (Or Other Flavoured Latte)Short Nonfat Milk,100
+29,Vanilla Latte (Or Other Flavoured Latte)2% Milk,130
+30,Vanilla Latte (Or Other Flavoured Latte)Soymilk,110
+31,Vanilla Latte (Or Other Flavoured Latte)Tall Nonfat Milk,150
+32,Vanilla Latte (Or Other Flavoured Latte)2% Milk,200
+33,Vanilla Latte (Or Other Flavoured Latte)Soymilk,160
+34,Vanilla Latte (Or Other Flavoured Latte)Grande Nonfat Milk,200
+35,Vanilla Latte (Or Other Flavoured Latte)2% Milk,250
+36,Vanilla Latte (Or Other Flavoured Latte)Soymilk,210
+37,Vanilla Latte (Or Other Flavoured Latte)Venti Nonfat Milk,250
+38,Vanilla Latte (Or Other Flavoured Latte)2% Milk,320
+39,Vanilla Latte (Or Other Flavoured Latte)Soymilk,270
+40,Caffè AmericanoShort,5
+41,Caffè AmericanoTall,10
+42,Caffè AmericanoGrande,15
+43,Caffè AmericanoVenti,25
+44,CappuccinoShort Nonfat Milk,50
+45,Cappuccino2% Milk,80
+46,CappuccinoSoymilk,50
+47,CappuccinoTall Nonfat Milk,60
+48,Cappuccino2% Milk,90
+49,CappuccinoSoymilk,70
+50,CappuccinoGrande Nonfat Milk,80
+51,Cappuccino2% Milk,120
+52,CappuccinoSoymilk,100
+53,CappuccinoVenti Nonfat Milk,110
+54,Cappuccino2% Milk,150
+55,CappuccinoSoymilk,120
+56,EspressoSolo,5
+57,EspressoDoppio,10
+58,Skinny Latte (Any Flavour)Short Nonfat Milk,60
+59,Skinny Latte (Any Flavour)Tall Nonfat Milk,100
+60,Skinny Latte (Any Flavour)Grande Nonfat Milk,120
+61,Skinny Latte (Any Flavour)Venti Nonfat Milk,160
+62,Caramel MacchiatoShort Nonfat Milk,100
+63,Caramel Macchiato2% Milk,120
+64,Caramel MacchiatoSoymilk,100
+65,Caramel MacchiatoTall Nonfat Milk,140
+66,Caramel Macchiato2% Milk,180
+67,Caramel MacchiatoSoymilk,150
+68,Caramel MacchiatoGrande Nonfat Milk,190
+69,Caramel Macchiato2% Milk,240
+70,Caramel MacchiatoSoymilk,200
+71,Caramel MacchiatoVenti Nonfat Milk,240
+72,Caramel Macchiato2% Milk,300
+73,Caramel MacchiatoSoymilk,250
+74,White Chocolate Mocha (Without Whipped Cream)Short Nonfat Milk,180
+75,White Chocolate Mocha (Without Whipped Cream)2% Milk,200
+76,White Chocolate Mocha (Without Whipped Cream)Soymilk,180
+77,White Chocolate Mocha (Without Whipped Cream)Tall Nonfat Milk,270
+78,White Chocolate Mocha (Without Whipped Cream)2% Milk,310
+79,White Chocolate Mocha (Without Whipped Cream)Soymilk,280
+80,White Chocolate Mocha (Without Whipped Cream)Grande Nonfat Milk,350
+81,White Chocolate Mocha (Without Whipped Cream)2% Milk,400
+82,White Chocolate Mocha (Without Whipped Cream)Soymilk,370
+83,White Chocolate Mocha (Without Whipped Cream)Venti Nonfat Milk,450
+84,White Chocolate Mocha (Without Whipped Cream)2% Milk,510
+85,White Chocolate Mocha (Without Whipped Cream)Soymilk,460
+86,Hot Chocolate (Without Whipped Cream)Short Nonfat Milk,130
+87,Hot Chocolate (Without Whipped Cream)2% Milk,150
+88,Hot Chocolate (Without Whipped Cream)Soymilk,130
+89,Hot Chocolate (Without Whipped Cream)Tall Nonfat Milk,190
+90,Hot Chocolate (Without Whipped Cream)2% Milk,230
+91,Hot Chocolate (Without Whipped Cream)Soymilk,200
+92,Hot Chocolate (Without Whipped Cream)Grande Nonfat Milk,240
+93,Hot Chocolate (Without Whipped Cream)2% Milk,290
+94,Hot Chocolate (Without Whipped Cream)Soymilk,250
+95,Hot Chocolate (Without Whipped Cream)Venti Nonfat Milk,320
+96,Hot Chocolate (Without Whipped Cream)2% Milk,380
+97,Hot Chocolate (Without Whipped Cream)Soymilk,330
+98,Caramel Apple Spice (Without Whipped Cream)Short,140
+99,Caramel Apple Spice (Without Whipped Cream)Tall,210
+100,Caramel Apple Spice (Without Whipped Cream)Grande,280
+101,Caramel Apple Spice (Without Whipped Cream)Venti,360
+102,Tazo® TeaShort,0
+103,Tazo® TeaTall,0
+104,Tazo® TeaGrande,0
+105,Tazo® TeaVenti,0
+106,Tazo® Chai Tea LatteShort Nonfat Milk,100
+107,Tazo® Chai Tea Latte2% Milk,120
+108,Tazo® Chai Tea LatteSoymilk,110
+109,Tazo® Chai Tea LatteTall Nonfat Milk,160
+110,Tazo® Chai Tea Latte2% Milk,190
+111,Tazo® Chai Tea LatteSoymilk,160
+112,Tazo® Chai Tea LatteGrande Nonfat Milk,210
+113,Tazo® Chai Tea Latte2% Milk,240
+114,Tazo® Chai Tea LatteSoymilk,220
+115,Tazo® Chai Tea LatteVenti Nonfat Milk,260
+116,Tazo® Chai Tea Latte2% Milk,310
+117,Tazo® Chai Tea LatteSoymilk,280
+118,Tazo® Green Tea LatteShort Nonfat Milk,130
+119,Tazo® Green Tea Latte2% Milk,170
+120,Tazo® Green Tea LatteSoymilk,140
+121,Tazo® Green Tea LatteTall Nonfat Milk,210
+122,Tazo® Green Tea Latte2% Milk,260
+123,Tazo® Green Tea LatteSoymilk,230
+124,Tazo® Green Tea LatteGrande Nonfat Milk,290
+125,Tazo® Green Tea Latte2% Milk,350
+126,Tazo® Green Tea LatteSoymilk,310
+127,Tazo® Green Tea LatteVenti Nonfat Milk,370
+128,Tazo® Green Tea Latte2% Milk,450
+129,Tazo® Green Tea LatteSoymilk,390
+130,Tazo® Full-Leaf Tea LatteShort Nonfat Milk,80
+131,Tazo® Full-Leaf Tea Latte2% Milk,90
+132,Tazo® Full-Leaf Tea LatteSoymilk,80
+133,Tazo® Full-Leaf Tea LatteTall Nonfat Milk,120
+134,Tazo® Full-Leaf Tea Latte2% Milk,140
+135,Tazo® Full-Leaf Tea LatteSoymilk,130
+136,Tazo® Full-Leaf Tea LatteGrande Nonfat Milk,150
+137,Tazo® Full-Leaf Tea Latte2% Milk,190
+138,Tazo® Full-Leaf Tea LatteSoymilk,170
+139,Tazo® Full-Leaf Tea LatteVenti Nonfat Milk,190
+140,Tazo® Full-Leaf Tea Latte2% Milk,230
+141,Tazo® Full-Leaf Tea LatteSoymilk,210
+142,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)Short Nonfat Milk,80
+143,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)2% Milk,90
+144,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)Soymilk,80
+145,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)Tall Nonfat Milk,120
+146,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)2% Milk,140
+147,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)Soymilk,130
+148,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)Grande Nonfat Milk,150
+149,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)2% Milk,190
+150,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)Soymilk,170
+151,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)Venti Nonfat Milk,190
+152,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)2% Milk,230
+153,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)Soymilk,210
+154,Iced Brewed Coffee (With Classic Syrup)Tall,60
+155,Iced Brewed Coffee (With Classic Syrup)Grande,90
+156,Iced Brewed Coffee (With Classic Syrup)Venti,130
+157,Iced Brewed Coffee (With Milk & Classic Syrup)Tall Nonfat Milk,80
+158,Iced Brewed Coffee (With Milk & Classic Syrup)2% Milk,90
+159,Iced Brewed Coffee (With Milk & Classic Syrup)Soymilk,80
+160,Iced Brewed Coffee (With Milk & Classic Syrup)Grande Nonfat Milk,110
+161,Iced Brewed Coffee (With Milk & Classic Syrup)2% Milk,120
+162,Iced Brewed Coffee (With Milk & Classic Syrup)Soymilk,110
+163,Iced Brewed Coffee (With Milk & Classic Syrup)Venti Nonfat Milk,160
+164,Iced Brewed Coffee (With Milk & Classic Syrup)2% Milk,180
+165,Iced Brewed Coffee (With Milk & Classic Syrup)Soymilk,170
+166,Shaken Iced Tazo® Tea (With Classic Syrup)Tall,60
+167,Shaken Iced Tazo® Tea (With Classic Syrup)Grande,80
+168,Shaken Iced Tazo® Tea (With Classic Syrup)Venti,120
+169,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)Tall,100
+170,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)Grande,130
+171,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)Venti,190
+172,Banana Chocolate SmoothieGrande Nonfat Milk,280
+173,Banana Chocolate Smoothie2% Milk,300
+174,Banana Chocolate SmoothieSoymilk,290
+175,Orange Mango Banana SmoothieGrande Nonfat Milk,260
+176,Orange Mango Banana Smoothie2% Milk,270
+177,Orange Mango Banana SmoothieSoymilk,270
+178,Strawberry Banana SmoothieGrande Nonfat Milk,290
+179,Strawberry Banana Smoothie2% Milk,290
+180,Strawberry Banana SmoothieSoymilk,290
+181,CoffeeTall Nonfat Milk,160
+182,CoffeeWhole Milk,180
+183,CoffeeSoymilk,160
+184,CoffeeGrande Nonfat Milk,220
+185,CoffeeWhole Milk,240
+186,CoffeeSoymilk,220
+187,CoffeeVenti Nonfat Milk,310
+188,CoffeeWhole Milk,350
+189,CoffeeSoymilk,310
+190,Mocha (Without Whipped Cream)Tall Nonfat Milk,180
+191,Mocha (Without Whipped Cream)Whole Milk,200
+192,Mocha (Without Whipped Cream)Soymilk,180
+193,Mocha (Without Whipped Cream)Grande Nonfat Milk,260
+194,Mocha (Without Whipped Cream)Whole Milk,290
+195,Mocha (Without Whipped Cream)Soymilk,260
+196,Mocha (Without Whipped Cream)Venti Nonfat Milk,340
+197,Mocha (Without Whipped Cream)Whole Milk,390
+198,Mocha (Without Whipped Cream)Soymilk,350
+199,Caramel (Without Whipped Cream)Tall Nonfat Milk,180
+200,Caramel (Without Whipped Cream)Whole Milk,200
+201,Caramel (Without Whipped Cream)Soymilk,180
+202,Caramel (Without Whipped Cream)Grande Nonfat Milk,280
+203,Caramel (Without Whipped Cream)Whole Milk,280
+204,Caramel (Without Whipped Cream)Soymilk,260
+205,Caramel (Without Whipped Cream)Venti Nonfat Milk,330
+206,Caramel (Without Whipped Cream)Whole Milk,370
+207,Caramel (Without Whipped Cream)Soymilk,340
+208,Java Chip (Without Whipped Cream)Tall Nonfat Milk,220
+209,Java Chip (Without Whipped Cream)Whole Milk,240
+210,Java Chip (Without Whipped Cream)Soymilk,220
+211,Java Chip (Without Whipped Cream)Grande Nonfat Milk,310
+212,Java Chip (Without Whipped Cream)Whole Milk,340
+213,Java Chip (Without Whipped Cream)Soymilk,310
+214,Java Chip (Without Whipped Cream)Venti Nonfat Milk,420
+215,Java Chip (Without Whipped Cream)Whole Milk,460
+216,Java Chip (Without Whipped Cream)Soymilk,430
+217,CoffeeTall Nonfat Milk,90
+218,CoffeeGrande Nonfat Milk,120
+219,CoffeeVenti Nonfat Milk,160
+220,MochaTall Nonfat Milk,110
+221,MochaGrande Nonfat Milk,150
+222,MochaVenti Nonfat Milk,210
+223,CaramelTall Nonfat Milk,100
+224,CaramelGrande Nonfat Milk,150
+225,CaramelVenti Nonfat Milk,200
+226,Java ChipTall Nonfat Milk,150
+227,Java ChipGrande Nonfat Milk,220
+228,Java ChipVenti Nonfat Milk,290
+229,Strawberries & Crème (Without Whipped Cream)Tall Nonfat Milk,170
+230,Strawberries & Crème (Without Whipped Cream)Whole Milk,190
+231,Strawberries & Crème (Without Whipped Cream)Soymilk,170
+232,Strawberries & Crème (Without Whipped Cream)Grande Nonfat Milk,230
+233,Strawberries & Crème (Without Whipped Cream)Whole Milk,260
+234,Strawberries & Crème (Without Whipped Cream)Soymilk,240
+235,Strawberries & Crème (Without Whipped Cream)Venti Nonfat Milk,310
+236,Strawberries & Crème (Without Whipped Cream)Whole Milk,350
+237,Strawberries & Crème (Without Whipped Cream)Soymilk,320
+238,Vanilla Bean (Without Whipped Cream)Tall Nonfat Milk,170
+239,Vanilla Bean (Without Whipped Cream)Whole Milk,200
+240,Vanilla Bean (Without Whipped Cream)Soymilk,180
+241,Vanilla Bean (Without Whipped Cream)Grande Nonfat Milk,240
+0,Chonga Bagel,300
+1,8-Grain Roll,380
+2,Almond Croissant,410
+3,Apple Fritter,460
+4,Banana Nut Bread,420
+5,Blueberry Muffin with Yogurt and Honey,380
+6,Blueberry Scone,420
+7,Butter Croissant,240
+8,Butterfly Cookie,350
+9,Cheese Danish,320
+10,Chewy Chocolate Cookie,170
+11,Chocolate Chip Cookie,310
+12,Chocolate Chunk Muffin,440
+13,Chocolate Croissant,330
+14,Chocolate Hazelnut Croissant,390
+15,Chocolate Marble Loaf Cake,490
+16,Cinnamon Morning Bun,390
+17,Cinnamon Raisin Bagel,270
+18,Classic Coffee Cake,390
+19,Cookie Butter Bar,360
+20,Cranberry Orange Scone,420
+21,Devil's Food Doughnut,430
+22,Double Chocolate Brownie,410
+23,Double Chocolate Chunk Brownie,490
+24,Double Chocolate Loaf Cake,440
+25,Everybody's Favorite - Bantam Bagel (2 Pack),100
+26,Everything Bagel with Cheese,290
+27,Frappuccino® Cookie Straw,90
+28,French Toast - Bantam Bagels (2 Pack),200
+29,Gluten-Free Marshmallow Dream Bar,240
+30,Ice Cream Cone Sugar Cookie,250
+31,Iced Lemon Pound Cake,470
+32,Michigan Cherry Oat Bar,310
+33,Multigrain Bagel,350
+34,Oatmeal Cookie,290
+35,Octopus Cookie,330
+36,Old-Fashioned Glazed Doughnut,480
+37,Peanut butter cup cookie,360
+38,Pecan Tart,330
+39,Petite Vanilla Bean Scone,120
+40,Plain Bagel,280
+41,Pumpkin Bread,410
+42,Raspberry Swirl Loaf Cake,420
+43,Raspberry Whoopie Pie,360
+44,Reduced-Fat Cinnamon Swirl Coffee Cake,370
+45,S'mores Bar,330
+46,S'mores Bar Multipack,330
+47,Sprouted Grain Vegan Bagel,330
+48,Strawberry Cake Pop,180
+49,The Classic - Bantam Bagels (2 Pack),200
+50,Toffeedoodle,300
+51,Vanilla Bean Whoopie Pie,360
+52,Vermont Maple Walnut Muffin,390
+53,Volpi™ Pepperoni & Tomato Savory Foldover,270
+54,Strawberries & Jam Sandwich,600
+55,Burrata & Basil Pesto Small Sandwich,300
+56,Cage-Free Eggs & Seasoned Grains Side Salad,360
+57,Cauliflower Tabbouleh Side Salad,130
+58,Cubano Sandwich,430
+59,Farmers' Market Protein Box,470
+60,Garden Greens & Shaved Parmesan Side Salad,170
+61,Green Goddess Avocado Salad,620
+62,Herbed Chicken & Fig Spread Small Sandwich,300
+63,Honey BBQ Sriracha Chicken Sandwich,360
+64,Roasted Carrot & Kale Side Salad,440
+65,Roasted Turkey & Dill Havarti Sandwich,600
+66,Seared Steak & Cheddar Sandwich,530
+67,Slow-Roasted Ham & Beecher's Flagship Cheese Small Sandwich,350
+68,Smoked Mozzarella & Roasted Pepper Sandwich,500
+69,Turkey & Fire-Roasted Corn Salad,560
+70,Za'atar Chicken & Lemon Tahini Salad,570
+71,BBQ Chicken Protein Box,420
+72,Cheese & Fruit Protein Box,450
+73,Chicken Wrap Protein Box,460
+74,Eggs & Cheese Protein Box,460
+75,PB&J Protein Box,520
+76,Smoked Turkey Protein Box,360
+77,Birthday Cake Pop,170
+78,Chocolate Cake Pop,160
+79,Chocolate Chip Cookie Dough Cake Pop,180
+80,Pirate Cake Pop,180
+81,Bacon Gouda & Egg Breakfast Sandwich,370
+82,Certified Gluten-Free Breakfast Sandwich,280
+83,Classic Whole-Grain Oatmeal,160
+84,Double-Smoked Bacon Cheddar & Egg Sandwich,490
+85,Ham & Cheese Croissant,320
+86,Hearty Blueberry Oatmeal,220
+87,Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,230
+88,Sausage Cheddar & Egg Breakfast Sandwich,500
+89,Seared Steak Egg & Tomatillo Wrap,410
+90,Slow-Roasted Ham Swiss & Egg Breakfast Sandwich,450
+91,Sous Vide Egg Bites: Bacon & Gruyere,310
+92,Sous Vide Egg Bites: Egg White & Red Pepper,170
+93,Spicy Chorizo  Monterey Jack & Egg Breakfast Sandwich,500
+94,Spinach Feta & Cage Free Egg White Breakfast Wrap,290
+95,Ancho Chipotle Chicken Panini ,500
+96,Chicken & Quinoa Protein Bowl with Black Beans and Greens,420
+97,Chicken Artichoke on Ancient Grain Flatbread,510
+98,Chicken BLT Salad Sandwich,470
+99,Egg Salad Sandwich,480
+100,Homestyle Chicken & Double-Smoked Bacon,480
+101,Italian-Style Ham & Spicy Salami,480
+102,Lentils & Vegetable Protein Bowl with Brown Rice,650
+103,Roasted Tomato & Mozzarella Panini,420
+104,Turkey & Havarti Sandwich,460
+105,Turkey Pesto Panini,560
+106,Berry Trio Yogurt,240
+107,Fresh Blueberries and Honey Greek Yogurt Parfait,240
+108,Justin's Chocolate Hazelnut Butter,180
+109,Justin's Classic Almond Butter,190
+110,Lemon Chiffon Yogurt,340
+111,Organic Avocado (Spread),90
+112,Seasonal Fruit Blend,90
